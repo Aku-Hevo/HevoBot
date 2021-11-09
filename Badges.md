@@ -30,5 +30,5 @@
   
   &nbsp;&nbsp;11.) Designer: Only members who contribute to the bot design with (rank-card) and more have this badge.
   
-  &nbsp;&nbsp;11.) Normie: 50+ reported bugs.
+  &nbsp;&nbsp;11.) Normie: Normal Users.
 
