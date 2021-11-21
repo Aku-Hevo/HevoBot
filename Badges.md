@@ -4,6 +4,7 @@
 
 ![badges](https://media.discordapp.net/attachments/911694728674820136/911920971970142208/unknown.png)
 
+
   &nbsp;&nbsp;1.) Owner of Hevo: Only the owner have this badge.
   
   &nbsp;&nbsp;2.) Developer: Only the bot developers have this badge.
