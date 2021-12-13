@@ -17,7 +17,7 @@
   
   &nbsp;&nbsp;6.) Bug Hunter: 25+ reported bugs.
   
-  &nbsp;&nbsp;7.) Early Supporter: Only members who joined the support server before 2021 have this badge.
+  &nbsp;&nbsp;7.) Early Supporter: Only members who joined the support server before 2022 have this badge.
   
   &nbsp;&nbsp;8.) Supporter: Only members who have supported the bot since it was created have this badge.
   
